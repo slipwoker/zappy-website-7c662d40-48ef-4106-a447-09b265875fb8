@@ -363,7 +363,7 @@
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script>
-<script>window.ZAPPY_WEBSITE_ID = "7c662d40-48ef-4106-a447-09b265875fb8";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "7c662d40-48ef-4106-a447-09b265875fb8";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -994,7 +994,7 @@
   </div>
 </section>
 
-<section class="jewelry-collections-craftsmanship-section" data-layout-spec="קולקציות תכשיטים-craftsmanship">
+<section class="jewelry-collections-craftsmanship-section" data-layout-spec="קולקציות תכשיטים-craftsmanship" id="jewelry-collections-craftsmanship-section">
   <div class="craftsmanship-container">
     <!-- Section Header -->
     <div class="craftsmanship-header">
@@ -1007,7 +1007,7 @@
     <!-- Process Cards -->
     <div class="craftsmanship-grid">
       <!-- Card 1: Material Selection -->
-      <div class="craftsmanship-card">
+      <div class="craftsmanship-card" data-grid-item-index="0">
         <div class="card-number">01</div>
         <div class="card-icon-wrapper">
           <svg data-element-type="icon" data-icon-type="svg" class="card-icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -1015,15 +1015,15 @@
             <circle cx="24" cy="20" r="4" stroke="currentColor" stroke-width="1.5"></circle>
           </svg>
         </div>
-        <h3 class="card-title">טוהר המתכת</h3>
-        <p class="card-text">
-          אנו עובדים אך ורק עם זהב 18 קראט, פלטינה 950 וכסף סטרלינג 925. כל מתכת נבחרת ידנית ועוברת בדיקות טוהר מחמירות כדי להבטיח ברק מושלם, עמידות לאורך זמן, והיפואלרגניות מלאה.
+        <h3 class="card-title" style="">טוהר המתכת</h3>
+        <p class="card-text" style="">
+          אנו עובדים אך ורק עם זהב, פלטינה 950 ,כסף 999 וכסף סטרלינג 925. כל מתכת נבחרת ידנית ועוברת בדיקות טוהר מחמירות כדי להבטיח ברק מושלם, עמידות לאורך זמן, והיפואלרגניות מלאה.
         </p>
         <div class="card-accent-line"></div>
       </div>
 
       <!-- Card 2: Stone Setting -->
-      <div class="craftsmanship-card">
+      <div class="craftsmanship-card" data-grid-item-index="1">
         <div class="card-number">02</div>
         <div class="card-icon-wrapper">
           <svg data-element-type="icon" data-icon-type="svg" class="card-icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -1039,7 +1039,7 @@
       </div>
 
       <!-- Card 3: Hand-Finishing -->
-      <div class="craftsmanship-card">
+      <div class="craftsmanship-card" data-grid-item-index="2">
         <div class="card-number">03</div>
         <div class="card-icon-wrapper">
           <svg data-element-type="icon" data-icon-type="svg" class="card-icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
