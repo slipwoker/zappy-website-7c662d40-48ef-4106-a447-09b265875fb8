@@ -7,77 +7,77 @@
 ## Pages
 
 ### בית
-https://trust-jewellery-7c662d40.zappy5.app
+https://example.com
 הכניסה שלכם לעולם תכשיטי יוקרה עם יהלומי מעבדה בתעודת IGI, זהב משובח ושעונים בעבודת יד. הצטרפו למועדון הלקוחות היוקרתי שלנו עוד היום.
 
 ### קולקציות תכשיטים
-https://trust-jewellery-7c662d40.zappy5.app/jewelry-collections
+https://example.com/jewelry-collections
 היכנסו לקולקציות התכשיטים החדשות שלנו המשלבות יהלומי מעבדה נוצצים, אבני חן נדירות וזהב טהור. כל פריט מספר סיפור של אלגנטיות נצחית שמחכה רק לך.
 
 ### יהלומים ואבני חן
-https://trust-jewellery-7c662d40.zappy5.app/diamonds-and-gemstones
+https://example.com/diamonds-and-gemstones
 צללו לעולם בו יהלומים טבעיים ומעבדתיים עם תעודות GIA ו-IGI פוגשים אבני חן צבעוניות באיכות מוזיאלית. כל אבן נבחרה בקפידה כדי להפוך את החלום שלך למציאות נוצצת.
 
 ### שעוני יוקרה
-https://trust-jewellery-7c662d40.zappy5.app/luxury-watches
+https://example.com/luxury-watches
 שעוני יוקרה בעבודת יד המשלבים מנגנונים שוויצריים עם עיצוב איטלקי. כל שעון הוא הצהרת סטייל שתגרום לפרק כף היד שלך לדבר. הזמינו את יצירת המופת שלכם עכשיו.
 
 ### סיפור המותג ואותנטיות
-https://trust-jewellery-7c662d40.zappy5.app/brand-story-and-authenticity
+https://example.com/brand-story-and-authenticity
 גלו את הסיפור שמאחורי Trust Jewellery: מחויבות בלתי מתפשרת לאיכות, שקיפות מלאה עם תעודות IGI ו-GIA, ומורשת של אמון שהופכת כל רכישה לחוויה משנת חיים.
 
 ### שירות לקוחות, שאלות נפוצות ויצירת קשר
-https://trust-jewellery-7c662d40.zappy5.app/client-care-faq-contact
+https://example.com/client-care-faq-contact
 צוות המומחים שלנו זמין להעניק לכם ייעוץ צמוד, לענות על כל שאלה בנוגע ליהלומי מעבדה, אבני חן ותכשיטים, ולהבטיח שכל פנייה תקבל את תשומת הלב שהיא ראויה לה. פנו אלינו עכשיו.
 
 ### Products
-https://trust-jewellery-7c662d40.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Trust Jewellery
 
 ### Cart
-https://trust-jewellery-7c662d40.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://trust-jewellery-7c662d40.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://trust-jewellery-7c662d40.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://trust-jewellery-7c662d40.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://trust-jewellery-7c662d40.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://trust-jewellery-7c662d40.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Trust Jewellery
 
 ### Category
-https://trust-jewellery-7c662d40.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Trust Jewellery
 
 ### תודה על פנייתך
-https://trust-jewellery-7c662d40.zappy5.app/thank-you
+https://example.com/thank-you
 Trust Jewellery - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://trust-jewellery-7c662d40.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://trust-jewellery-7c662d40.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://trust-jewellery-7c662d40.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -106,8 +106,8 @@ Luxury Jewelry & Watches E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://trust-jewellery-7c662d40.zappy5.app/sitemap.xml
-- Robots: https://trust-jewellery-7c662d40.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://trust-jewellery-7c662d40.zappy5.app/llms-full.txt
-- Products (JSON): https://trust-jewellery-7c662d40.zappy5.app/products.json
-- Products (Google Merchant RSS): https://trust-jewellery-7c662d40.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
