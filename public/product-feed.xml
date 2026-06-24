@@ -4,6 +4,19 @@
     <title>Trust Jewellery</title>
     <link>https://example.com</link>
     <description>Product feed for Trust Jewellery</description>
-    <lastBuildDate>Wed, 24 Jun 2026 14:10:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 14:44:51 GMT</lastBuildDate>
+    <item>
+      <g:id>0df6357e-c21d-4c94-956a-09aa78d8a51a</g:id>
+      <g:title>עגילים צמודים 2CT כל צד 1CT</g:title>
+      <g:description>זהב 14 קראט יהלומי מעבדה IGI התכשיט בעל תעודה הערכת שווי SGL</g:description>
+      <g:link>https://example.com/product/agylym-tsmvdym-2ct-kl-tsd-1ct-swtobx</g:link>
+      <g:image_link>https://example.com/assets/image-product-image-1782311992189-55ezqc.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>3899.00 ILS</g:price>
+      <g:sale_price>2899.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Trust Jewellery</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
